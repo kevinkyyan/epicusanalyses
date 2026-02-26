@@ -5,10 +5,10 @@ This repository contains the internal validation procedures and vignettes for th
 
 ## Repository Contents
 
-### 1. `EPIC-US Calibration/`
+### 1. [`EPIC-US Calibration/`](EPIC-US%20Calibration/)
 Contains the calibration R scripts used to determine model input parameters for the `epicUS` model.
 
-### 2. `EPIC-US Vignettes/`
+### 2. [`EPIC-US Vignettes/`](EPIC-US%20Vignettes/)
 Contains documentation on the the internal validation process. 
 
 ## Requirements
