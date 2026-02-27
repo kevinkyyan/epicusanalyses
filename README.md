@@ -1,4 +1,4 @@
-# EPIC-US Analyses 
+# EPIC-US Internal Validation 
 
 ## Overview
 This repository contains the internal validation procedures and vignettes for the **EPIC-US**. 
